@@ -3,4 +3,8 @@
 
 > 暂未开放，敬请期待
 
-![百度 图标](https://www.baidu.com/img/bd_logo1.png  "baidu.com") <kbd>Ctrl</kbd>+<kbd>C</kbd>+<kbd>V</kbd>
+[![超洋](https://s1.ax1x.com/2023/02/03/pSswukj.png  "coyah")](chaoyang.space)
+
+<kbd>Poverd</kbd> <kbd>by</kbd> <kbd>github page</kbd>
+
+<kbd>Copyright</kbd> <kbd>:</kbd> <kbd>韩小洋</kbd>
